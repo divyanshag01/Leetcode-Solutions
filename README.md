@@ -51,6 +51,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0139-word-break](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
@@ -88,6 +89,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0139-word-break](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -97,4 +99,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 <!---LeetCode Topics End-->
