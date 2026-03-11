@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
@@ -57,6 +58,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0076-minimum-window-substring](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
