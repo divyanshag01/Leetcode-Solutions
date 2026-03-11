@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0139-word-break](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
+| [0496-next-greater-element-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -60,11 +61,13 @@
 | [0141-linked-list-cycle](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
+| [0496-next-greater-element-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +89,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0496-next-greater-element-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
