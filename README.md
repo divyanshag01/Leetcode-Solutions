@@ -157,6 +157,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
@@ -178,6 +179,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
@@ -188,4 +190,5 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 <!---LeetCode Topics End-->
