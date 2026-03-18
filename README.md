@@ -11,6 +11,7 @@
 | [0085-maximal-rectangle](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0120-triangle](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0120-triangle/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
@@ -124,6 +125,7 @@
 | [0063-unique-paths-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
+| [0120-triangle](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0120-triangle/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0139-word-break](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
