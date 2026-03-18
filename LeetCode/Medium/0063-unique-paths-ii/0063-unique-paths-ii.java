@@ -3,7 +3,7 @@ class Solution {
         int m = obstacleGrid.length;
         int n = obstacleGrid[0].length;
         int dp[][] = new int[m][n];
-        if(m==1&&n==1 && obstacleGrid[m-1][n-1]==1)return 0; 
+        // if(m==1&&n==1 && obstacleGrid[m-1][n-1]==1)return 0; 
         for(int row[]:dp){
             Arrays.fill(row,-1);
         }
