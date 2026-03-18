@@ -118,6 +118,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0062-unique-paths](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -141,6 +142,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+| [0062-unique-paths](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## String
@@ -253,4 +255,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
