@@ -20,6 +20,7 @@
 | [0503-next-greater-element-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0931-minimum-falling-path-sum/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/2104-sum-of-subarray-ranges/) | Medium |
 ## Greedy
@@ -32,6 +33,7 @@
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0085-maximal-rectangle](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
+| [0931-minimum-falling-path-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0931-minimum-falling-path-sum/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -132,6 +134,7 @@
 | [0213-house-robber-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0931-minimum-falling-path-sum/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
