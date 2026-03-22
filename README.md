@@ -17,6 +17,7 @@
 | [0198-house-robber](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
+| [0455-assign-cookies](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
@@ -29,6 +30,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
+| [0455-assign-cookies](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -66,6 +68,7 @@
 | [0148-sort-list](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
+| [0455-assign-cookies](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
@@ -117,6 +120,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
+| [0455-assign-cookies](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
