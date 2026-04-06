@@ -259,6 +259,7 @@
 | [0547-number-of-provinces](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
@@ -303,6 +304,7 @@
 | [0547-number-of-provinces](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
@@ -334,9 +336,11 @@
 | [0210-course-schedule-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0210-course-schedule-ii/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
