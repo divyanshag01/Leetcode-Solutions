@@ -32,6 +32,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/1463-cherry-pickup-ii/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/2104-sum-of-subarray-ranges/) | Medium |
@@ -53,6 +54,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/1463-cherry-pickup-ii/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 ## Linked List
@@ -309,6 +311,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
