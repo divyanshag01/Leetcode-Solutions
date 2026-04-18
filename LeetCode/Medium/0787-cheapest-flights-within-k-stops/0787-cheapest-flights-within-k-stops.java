@@ -46,7 +46,7 @@ class Solution {
             for(Pair num:adj.get(node)){
                 int cost = num.wt;
                 int nextNode = num.node;
-                if(cost+wt<distance[nextNode] && stop<=k){
+                if(cost+wt<distance[nextNode] ){
                     distance[nextNode] = cost+wt;
                     q.offer(new Tuple(stop+1,cost+wt,nextNode));
                 }
