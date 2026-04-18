@@ -10,7 +10,7 @@ class Tuple{
     int stop;
     int node;
     int wt;
-    public Tuple(int wt,int stop,int node){
+    public Tuple(int stop,int wt,int node){
         this.stop = stop;
         this.node = node;
         this.wt = wt;
@@ -44,9 +44,11 @@ class Solution {
                 continue;
             }
             for(Pair num:adj.get(node)){
-                if(distance[num.node]>wt+num.wt){
-                    distance[num.node]=wt+num.wt;
-                    q.offer(new Tuple(wt+num.wt,stop+1,num.node));
+                int cost = num.wt;
+                int nextNode = num.node;
+                if(cost+wt<distance[nextNode] && stop<=k){
+                    distance[nextNode] = cost+wt;
+                    q.offer(new Tuple(stop+1,cost+wt,nextNode));
                 }
             }
         }
