@@ -218,6 +218,7 @@
 | [0547-number-of-provinces](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -273,6 +274,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -323,6 +325,7 @@
 | [0994-rotting-oranges](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -355,6 +358,7 @@
 | [0785-is-graph-bipartite](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Topological Sort
