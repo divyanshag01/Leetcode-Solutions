@@ -21,6 +21,7 @@ class Solution {
             int t = tuple.time;
             int row = tuple.row;
             int col = tuple.col;
+            if(visited[row][col]) continue;
             visited[row][col]=true;
             if(row == n-1 && col==n-1) return t;
             for(int i = 0;i<4;i++){
