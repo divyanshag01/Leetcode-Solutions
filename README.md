@@ -27,6 +27,7 @@
 | [0518-coin-change-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
 | [0721-accounts-merge](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0721-accounts-merge/) | Medium |
+| [0724-find-pivot-index](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0778-swim-in-rising-water/) | Hard |
@@ -410,4 +411,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/1192-critical-connections-in-a-network/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0724-find-pivot-index](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
