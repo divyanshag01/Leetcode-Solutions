@@ -26,6 +26,7 @@
 | [0503-next-greater-element-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0721-accounts-merge](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0721-accounts-merge/) | Medium |
 | [0724-find-pivot-index](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
@@ -117,6 +118,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0496-next-greater-element-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0721-accounts-merge](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0721-accounts-merge/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0947-most-stones-removed-with-same-row-or-column/) | Medium |
@@ -414,5 +416,6 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
