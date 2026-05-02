@@ -40,6 +40,7 @@
 | [0994-rotting-oranges](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/1463-cherry-pickup-ii/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
@@ -127,6 +128,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1248-count-number-of-nice-subarrays](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +205,7 @@
 | [0062-unique-paths](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,6 +229,7 @@
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0930-binary-subarrays-with-sum/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -425,4 +429,5 @@
 | [0724-find-pivot-index](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 <!---LeetCode Topics End-->
