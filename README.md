@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0063-unique-paths-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
@@ -363,6 +364,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0222-count-complete-tree-nodes/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0778-swim-in-rising-water/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
