@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
@@ -365,6 +366,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0222-count-complete-tree-nodes/) | Easy |
