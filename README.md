@@ -49,6 +49,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/1463-cherry-pickup-ii/) | Hard |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/2104-sum-of-subarray-ranges/) | Medium |
@@ -379,6 +380,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0778-swim-in-rising-water/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
