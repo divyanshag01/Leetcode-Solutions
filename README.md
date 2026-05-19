@@ -24,6 +24,7 @@
 | [0200-number-of-islands](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0455-assign-cookies](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0494-target-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
@@ -60,6 +61,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 ## Matrix
@@ -187,6 +189,7 @@
 | [0198-house-robber](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
@@ -380,6 +383,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0222-count-complete-tree-nodes/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0778-swim-in-rising-water/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
@@ -447,6 +451,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0930-binary-subarrays-with-sum/) | Medium |
