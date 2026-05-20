@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
@@ -161,6 +162,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0148-sort-list](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
@@ -377,6 +379,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
