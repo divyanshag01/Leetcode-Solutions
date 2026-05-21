@@ -14,10 +14,10 @@ class Solution {
             return 0;
         }
         if(dp[i][j]!=-1)return dp[i][j];
-        int right = 0;
-        int down = 0;
-        right += generate(m,n,i,j+1,dp);
-        down += generate(m,n,i+1,j,dp);
+        // int right = 0;
+        // int down = 0;
+        int right = generate(m,n,i,j+1,dp);
+        int down = generate(m,n,i+1,j,dp);
         return dp[i][j] = right+down;
     }
 }
