@@ -62,6 +62,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +73,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
