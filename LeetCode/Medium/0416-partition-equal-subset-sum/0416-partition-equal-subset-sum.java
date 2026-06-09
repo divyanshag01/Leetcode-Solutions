@@ -1,30 +1,28 @@
 class Solution {
     public boolean canPartition(int[] nums) {
         int sum = 0;
-        for(int num:nums) sum+=num;
+        int n = nums.length;
+        for(int i = 0;i<n;i++){
+            sum+=nums[i];
+        }
         if(sum%2!=0) return false;
-        int dp[][] = new int[nums.length][sum/2 +1];
+        int dp[][] = new int[n][(sum/2)+1];
         for(int row[]:dp){
             Arrays.fill(row,-1);
         }
-        return solve(nums.length-1,sum/2,nums,dp);
+        return generate(nums,n-1,sum/2,dp);
     }
-    public boolean solve(int idx,int sum,int nums[],int dp[][]){
-        if(sum==0){
-            return true;
+    public boolean generate(int nums[],int n,int sum,int dp[][]){
+        if(sum<0) return false;
+        if(n==0){
+            if(sum-nums[0]==0) return true;
+            else return false;
         }
-        if(idx<0){
-            return false;
-        }
-        if(dp[idx][sum]!=-1) return dp[idx][sum]==1;
-        boolean notTake = false;
-        boolean take = false;
-        if(nums[idx]<=sum){
-            take = solve(idx-1,sum-nums[idx],nums,dp);
-        }
-        notTake = solve(idx-1,sum,nums,dp);
-        boolean ans = take||notTake;
-        dp[idx][sum] = ans?1:0;
-        return ans;
+        if(n<0) return false;
+        if(dp[n][sum]!=-1)return dp[n][sum]==1;
+        boolean pick = generate(nums,n-1,sum-nums[n],dp);
+        boolean notPick = generate(nums,n-1,sum,dp);
+        dp[n][sum] = pick||notPick?1:0;
+        return pick||notPick;
     }
 }
