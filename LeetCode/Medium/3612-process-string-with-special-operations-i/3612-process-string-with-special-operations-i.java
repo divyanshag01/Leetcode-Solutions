@@ -1,7 +1,7 @@
 class Solution {
     public String processStr(String s) {
-        StringBuffer sb = new StringBuffer();
-        // StringBuffer sb = new StringBuffer();
+        StringBuilder sb = new StringBuilder();
+        // StringBuilder sb = new StringBuilder();
         // int idx = -1;
         for(char c: s.toCharArray()){
            if(c=='*'){
@@ -9,9 +9,7 @@ class Solution {
                 sb.deleteCharAt(sb.length()-1);
             }
             }else if(c=='#'){
-                StringBuffer k = new StringBuffer();
-                k = sb;
-                sb.append(k);
+                sb.append(sb);
             }else if(c=='%'){
                 sb.reverse();
             }else{
