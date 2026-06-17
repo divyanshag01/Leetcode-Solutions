@@ -220,6 +220,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0931-minimum-falling-path-sum/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/1463-cherry-pickup-ii/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -254,6 +255,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0402-remove-k-digits](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0721-accounts-merge](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0721-accounts-merge/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/3614-process-string-with-special-operations-ii/) | Hard |
 ## Trie
