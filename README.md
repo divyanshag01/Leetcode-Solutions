@@ -60,6 +60,7 @@
 | [1631-path-with-minimum-effort](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/2104-sum-of-subarray-ranges/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
@@ -224,6 +225,7 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/1463-cherry-pickup-ii/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -247,6 +249,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -319,6 +322,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -356,6 +360,7 @@
 | [1631-path-with-minimum-effort](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -437,6 +442,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0222-count-complete-tree-nodes/) | Easy |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
