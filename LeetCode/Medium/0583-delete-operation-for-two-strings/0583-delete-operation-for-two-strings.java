@@ -1,24 +1,22 @@
 class Solution {
     public int minDistance(String word1, String word2) {
-        char[] str1 = word1.toCharArray();
-        char[] str2 = word2.toCharArray();
-        int n = str1.length;
-        int m = str2.length;
-
-        int[][] dp = new int[n + 1][m + 1];
-
-        // Standard LCS DP approach
-        for (int i = 1; i <= n; i++) {
-            for (int j = 1; j <= m; j++) {
-                if (str1[i - 1] == str2[j - 1]) {
-                    dp[i][j] = dp[i - 1][j - 1] + 1;
-                } else {
-                    dp[i][j] = Math.max(dp[i - 1][j], dp[i][j - 1]);
-                }
-            }
+        int n = word1.length();
+        int m = word2.length();
+        int dp[][] = new int[n][m];
+        for(int row[]:dp){
+            Arrays.fill(row,-1);
         }
-        
-        // Final Formula: n + m - 2 * LCS
-        return n + m - 2 * dp[n][m];
+        int len = maxLen(word1,word2,n-1,m-1,dp);
+        return (n-len)+(m-len);
+    }
+    public int maxLen(String s,String k,int idx1,int idx2,int dp[][]){
+        if(idx1<0 || idx2<0) return 0;
+        if(dp[idx1][idx2]!=-1)return dp[idx1][idx2];
+        int pick = 0;
+        if(s.charAt(idx1)==k.charAt(idx2)){
+            pick = 1+maxLen(s,k,idx1-1,idx2-1,dp);
+        }
+        int notPick = Math.max(maxLen(s,k,idx1-1,idx2,dp),maxLen(s,k,idx1,idx2-1,dp));
+        return dp[idx1][idx2] = Math.max(pick,notPick);
     }
 }
