@@ -26,6 +26,7 @@
 | [0200-number-of-islands](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0455-assign-cookies](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
@@ -129,6 +130,7 @@
 | [0148-sort-list](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -155,6 +157,7 @@
 | [0141-linked-list-cycle](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0721-accounts-merge](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0721-accounts-merge/) | Medium |
@@ -193,6 +196,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0721-accounts-merge](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0721-accounts-merge/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -443,6 +447,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0222-count-complete-tree-nodes/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0778-swim-in-rising-water/) | Hard |
