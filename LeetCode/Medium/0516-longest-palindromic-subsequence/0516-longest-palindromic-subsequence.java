@@ -1,26 +1,25 @@
 class Solution {
     public int longestPalindromeSubseq(String s) {
-        // Reverse the original string
-        String rev = new StringBuilder(s).reverse().toString();
-        
-        char[] str1 = s.toCharArray();
-        char[] str2 = rev.toCharArray();
-        int n = str1.length;
-
-        // DP table for LCS
-        int[][] dp = new int[n + 1][n + 1];
-
-        for (int i = 1; i <= n; i++) {
-            for (int j = 1; j <= n; j++) {
-                if (str1[i - 1] == str2[j - 1]) {
-                    // Characters match
-                    dp[i][j] = dp[i - 1][j - 1] + 1;
-                } else {
-                    // Mismatch: take max of excluding one char from either string
-                    dp[i][j] = Math.max(dp[i - 1][j], dp[i][j - 1]);
-                }
-            }
+        StringBuilder sb = new StringBuilder(s);
+        String k = sb.reverse().toString();
+        int n = s.length();
+        int dp[][] = new int[n][n];
+        for(int row[]:dp){
+            Arrays.fill(row,-1);
         }
-        return dp[n][n];
+        return maxLen(s,k,n-1,n-1,dp);
+    }
+    public int maxLen(String s,String k,int idx1,int idx2,int dp[][]){
+        if(idx1<0 || idx2<0){
+            return 0;
+        }
+        if(dp[idx1][idx2]!=-1)return dp[idx1][idx2];
+        int pick = 0;
+        int notPick = 0;
+        if(s.charAt(idx1)==k.charAt(idx2)){
+            pick = 1 + maxLen(s,k,idx1-1,idx2-1,dp);
+        }
+        notPick = Math.max(maxLen(s,k,idx1-1,idx2,dp),maxLen(s,k,idx1,idx2-1,dp));
+        return dp[idx1][idx2] = Math.max(pick,notPick);
     }
 }
