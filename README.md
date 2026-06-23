@@ -233,6 +233,7 @@
 | [1463-cherry-pickup-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/1463-cherry-pickup-ii/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3699-number-of-zigzag-arrays-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -519,6 +520,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
+| [3699-number-of-zigzag-arrays-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
