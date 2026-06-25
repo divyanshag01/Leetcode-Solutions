@@ -149,6 +149,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0041-first-missing-positive](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0076-minimum-window-substring](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -260,6 +261,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+| [0012-integer-to-roman](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0062-unique-paths](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
@@ -272,6 +274,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0076-minimum-window-substring](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0139-word-break](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
