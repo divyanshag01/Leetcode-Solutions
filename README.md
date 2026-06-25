@@ -28,6 +28,7 @@
 | [0322-coin-change](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
+| [0414-third-maximum-number](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0455-assign-cookies](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0494-target-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
@@ -201,6 +202,7 @@
 | ------- | ------- |
 | [0148-sort-list](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0414-third-maximum-number](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0721-accounts-merge](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0721-accounts-merge/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
