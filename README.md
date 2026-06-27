@@ -70,6 +70,7 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -172,6 +173,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +199,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0148-sort-list](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,6 +218,7 @@
 | ------- | ------- |
 | [0148-sort-list](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -544,6 +548,7 @@
 | [1732-find-the-highest-altitude](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -553,6 +558,7 @@
 | ------- | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
