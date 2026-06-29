@@ -117,6 +117,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
+| [0086-partition-list](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
@@ -134,6 +135,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
+| [0086-partition-list](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
