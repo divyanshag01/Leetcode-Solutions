@@ -378,6 +378,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0617-merge-two-binary-trees/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -404,6 +405,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
+| [0617-merge-two-binary-trees](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0617-merge-two-binary-trees/) | Easy |
 | [0721-accounts-merge](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
@@ -444,6 +446,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0617-merge-two-binary-trees/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Breadth-First Search
@@ -463,6 +466,7 @@
 | [0322-coin-change](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
+| [0617-merge-two-binary-trees](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0617-merge-two-binary-trees/) | Easy |
 | [0721-accounts-merge](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
