@@ -40,6 +40,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0542-01-matrix](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0721-accounts-merge](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0721-accounts-merge/) | Medium |
 | [0724-find-pivot-index](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
@@ -175,6 +176,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0721-accounts-merge](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0721-accounts-merge/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0930-binary-subarrays-with-sum/) | Medium |
@@ -305,6 +307,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0516-longest-palindromic-subsequence/) | Medium |
 | [0541-reverse-string-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0541-reverse-string-ii/) | Easy |
 | [0583-delete-operation-for-two-strings](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0583-delete-operation-for-two-strings/) | Medium |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0721-accounts-merge](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0721-accounts-merge/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
