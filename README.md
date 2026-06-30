@@ -182,6 +182,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -306,6 +307,7 @@
 | [1143-longest-common-subsequence](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/3614-process-string-with-special-operations-ii/) | Hard |
@@ -326,6 +328,7 @@
 | [0076-minimum-window-substring](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
