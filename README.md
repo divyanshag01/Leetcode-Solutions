@@ -53,6 +53,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0931-minimum-falling-path-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0994-rotting-oranges](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
+| [0999-available-captures-for-rook](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0999-available-captures-for-rook/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -108,6 +109,7 @@
 | [0827-making-a-large-island](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0827-making-a-large-island/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
+| [0999-available-captures-for-rook](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0999-available-captures-for-rook/) | Easy |
 | [1020-number-of-enclaves](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/1463-cherry-pickup-ii/) | Hard |
@@ -359,6 +361,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
+| [0999-available-captures-for-rook](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0999-available-captures-for-rook/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
