@@ -308,6 +308,7 @@
 | [0139-word-break](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0402-remove-k-digits](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
+| [0482-license-key-formatting](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0482-license-key-formatting/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0516-longest-palindromic-subsequence/) | Medium |
 | [0541-reverse-string-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0541-reverse-string-ii/) | Easy |
 | [0583-delete-operation-for-two-strings](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0583-delete-operation-for-two-strings/) | Medium |
