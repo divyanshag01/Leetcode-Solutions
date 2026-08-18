@@ -634,4 +634,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
