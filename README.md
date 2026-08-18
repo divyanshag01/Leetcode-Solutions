@@ -630,4 +630,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
