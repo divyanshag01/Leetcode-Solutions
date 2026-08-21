@@ -258,6 +258,7 @@
 | [0062-unique-paths](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
 | [0115-distinct-subsequences](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0120-triangle/) | Medium |
@@ -315,6 +316,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
+| [0072-edit-distance](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0115-distinct-subsequences](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0139-word-break](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
