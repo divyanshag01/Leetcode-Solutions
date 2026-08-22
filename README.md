@@ -89,6 +89,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0402-remove-k-digits](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
@@ -169,6 +170,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0025-reverse-nodes-in-k-group/) | Hard |
+| [0044-wildcard-matching](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0044-wildcard-matching/) | Hard |
 | [0206-reverse-linked-list](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
@@ -254,6 +256,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0044-wildcard-matching](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0062-unique-paths](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
@@ -316,6 +319,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
+| [0044-wildcard-matching](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Medium/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0115-distinct-subsequences](https://github.com/divyanshag01/Leetcode-Solutions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
