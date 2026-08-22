@@ -1,20 +1,25 @@
 class Solution {
     public int minDistance(String word1, String word2) {
-        int dp[][] = new int[word1.length()][word2.length()];
-        for(int row[]:dp){
-            Arrays.fill(row,-1);
+        int n = word1.length();
+        int m = word2.length();
+        int dp[][] = new int[n+1][m+1];
+        for(int i = 0;i<m+1;i++){
+            dp[0][i] = i;
         }
-        return check(word1,word2,word1.length()-1,word2.length()-1,dp);
-        // return word1.length()-common;
-    }
-    public int check(String word1,String word2,int idx1,int idx2,int dp[][]){
-        if(idx1<0) return idx2 + 1;
-        if(idx2<0) return idx1 + 1;
-        if(dp[idx1][idx2]!=-1) return dp[idx1][idx2];
-        if(word1.charAt(idx1)==word2.charAt(idx2)){
-            return dp[idx1][idx2] = check(word1,word2,idx1-1,idx2-1,dp);
+        for(int i = 0;i<n+1;i++){
+            dp[i][0] = i;
         }
-        // int notPick = check(word1,word2,idx1-1,idx2);
-        return dp[idx1][idx2] = 1 + Math.min(check(word1,word2,idx1,idx2-1,dp),Math.min(check(word1,word2,idx1-1,idx2-1,dp),check(word1,word2,idx1-1,idx2,dp)));
+        for(int i = 1;i<n+1;i++){
+            char w1 = word1.charAt(i-1);
+            for(int j = 1;j<m+1;j++){
+                char w2 = word2.charAt(j-1);
+                if(w1==w2){
+                    dp[i][j] = dp[i-1][j-1];
+                }else{
+                    dp[i][j] = 1 + Math.min(dp[i-1][j-1],Math.min(dp[i-1][j],dp[i][j-1]));
+                }
+            }
+        }
+        return dp[n][m];
     }
 }
