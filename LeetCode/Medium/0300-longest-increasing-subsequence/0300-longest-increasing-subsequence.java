@@ -1,34 +1,26 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
-        List<Integer> res = new ArrayList<>();
-
-        for (int n : nums) {
-            if (res.isEmpty() || res.get(res.size() - 1) < n) {
-                res.add(n);
-            } else {
-                int idx = binarySearch(res, n);
-                res.set(idx, n);
-            }
+        int dp[][] = new int[nums.length][nums.length+1];
+        for(int row[]:dp){
+        Arrays.fill(row,-1); 
         }
-
-        return res.size();        
+        return maxLen(nums,0,-1,dp);
     }
+    public int maxLen(int nums[],int idx,int picked,int dp[][]){
+        if(idx>=nums.length) return 0;
+        if(dp[idx][picked+1]!=-1)return dp[idx][picked+1];
 
-    private int binarySearch(List<Integer> arr, int target) {
-        int left = 0;
-        int right = arr.size() - 1;
-
-        while (left <= right) {
-            int mid = (left + right) / 2;
-            if (arr.get(mid) == target) {
-                return mid;
-            } else if (arr.get(mid) > target) {
-                right = mid - 1;
-            } else {
-                left = mid + 1;
+        if(picked==-1){
+            int pick = 1 + maxLen(nums,idx+1,idx,dp);
+            int notPick = maxLen(nums,idx+1,picked,dp);
+            return dp[idx][picked+1] = Math.max(pick,notPick);
+        }else{
+            int take = 0;
+            if(nums[idx]>nums[picked]){
+                take = 1 + maxLen(nums,idx+1,idx,dp);
             }
+            int notTake = maxLen(nums,idx+1,picked,dp);
+            return dp[idx][picked+1] = Math.max(take,notTake);
         }
-
-        return left;
-    }    
+    }
 }
